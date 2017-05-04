@@ -1,3 +1,4 @@
+# Experimental WIP!
 # RethinkPhx
 
 To start your Phoenix app:
